@@ -1,2 +1,2 @@
 # Web_Development-ServletPractice
-Practice projects involving Servlets - (No Maven Dependencies)
+Practice projects involving Servlets API - (No Maven Dependencies, No Spring MVC). Just using pure Servlets
